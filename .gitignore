@@ -1,0 +1,6 @@
+build
+*.class
+bin
+.settings
+.DS_Store
+.classpath
